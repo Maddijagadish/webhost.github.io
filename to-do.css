@@ -1,0 +1,54 @@
+h1{
+    color: rgb(246, 248, 246);
+}
+body {
+    padding: 25px;
+    text-align: center;
+    background-image: url("https://img.freepik.com/premium-photo/blurred-office-workspace-background-with-modern-design_641503-22057.jpg?w=2000");
+    background-size: cover;
+}
+input{
+    width: 60%;
+    height: 25px;
+    border-radius: 4px;
+    border: 2px solid rgb(167, 167, 167);
+}
+#add-button{
+    background-color: rgb(25, 162, 55);
+    color: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    border: none ;
+    border-radius: 7px;
+    cursor: pointer;
+    margin-left: 4px;
+}
+button{
+    color: white;
+    background-color: red;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    border: none ;
+    border-radius: 7px;
+    cursor: pointer;
+}
+ul{
+    list-style: none;
+
+}
+
+li{
+    padding: 5px;
+    background-color: rgb(225, 218, 218);
+    border-radius: 4px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 8px 10px #686cb4;
+}
+span{
+    color: black;
+    padding: 7px;
+}
